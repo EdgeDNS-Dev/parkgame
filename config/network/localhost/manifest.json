@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Node NS0 Edge Network",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "NS0",
     "defaultUser": {
         "userId": "user",
         "password": "",
